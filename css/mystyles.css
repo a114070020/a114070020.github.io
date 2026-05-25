@@ -1,7 +1,7 @@
 .briancenter{
     text-align: center;
     color: chocolate;
-    background-color: aquamarine;
+    background-color: #31d2f2;
     }
 .briantext{
     border-radius: 15px;
@@ -75,21 +75,7 @@ section#cta{
     background-color: #31d2f2;
 }
 
-section#interests{
-    background-color: #31d2f2;
-}
 
-section#skills{
-    background-color: #31d2f2;
-}
-
-section#work{
-    background-color: #31d2f2;
-}
-
-section#school{
-    background-color: #31d2f2;
-}
 h2 {
     color: black; 
 }
@@ -113,3 +99,4 @@ h4 {
 p {
     color: black
 }
+
