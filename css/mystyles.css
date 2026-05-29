@@ -3,6 +3,10 @@
     color: chocolate;
     background-color: #31d2f2;
     }
+.briancenters{
+    text-align: center;
+    color: chocolate;
+    }
 .briantext{
     border-radius: 15px;
     background-color: aqua;
@@ -71,8 +75,7 @@ section#about{
 }
 
 section#cta{
-    background-color: #31d2f2;
-    backgroubnd-image:url("../assets/img/bg.jpg")
+    background-image:url("../assets/img/bg.jpg")
 }
 
 
